@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/
+permalink: /honorsandawards/
 title: "Honors and Awards"
 ---
 
