@@ -4,8 +4,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research and Project"
-    url: /research/
+  # - title: "Research and Project"
+  #   url: /research/
 
   - title: "Educations"
     url: /educations/
@@ -13,11 +13,11 @@ main:
   - title: "Honors and Awards"
     url: /honorsandawards/
 
-  - title: "Software"
-    url: /software/
+  # - title: "Software"
+  #   url: /software/
 
-  - title: "Posts"
-    url: /posts/
+  # - title: "Posts"
+  #   url: /posts/
     
   - title: "CV"
     url: /cv/
