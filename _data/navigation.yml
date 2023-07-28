@@ -4,9 +4,12 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research"
+  - title: "Research and Project"
     url: /research/
 
+  - title: "Educations"
+    url: /educations/
+    
   - title: "Honors and Awards"
     url: /honorsandawards/
 
