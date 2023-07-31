@@ -17,10 +17,9 @@ My academic research falls into two main areas: network traffic measurement (inc
 ## GateKeeper
 ![Language](https://img.shields.io/badge/language-python-brightgreen)
 - An end-to-end UltraLite approach for edge gateway devices.
-  1. An interpretable fusion IP packet fixed transmission structure based on Self-attention mechanism is designed and proposed as a keyword node selection algorithm to achieve high optimization of model inputs; (2) An ultra-lightweight classification model structure is proposed based on parameter-free FFT module; (3) An ultra-lightweight classification model structure is proposed based on parameter-free FFT module.
-  2. An ultra-lightweight classification model structure is proposed based on the parameter-free FFT module.
-  3. Accurately classify VPN and Tor traffic with 91% accuracy and 300KB model size.
-  4. This work conference version has been accepted by ***IEEE 2023 ICC***, and the journal version has been submitted to ***IEEE Internet of Things Journal***.
+  1. An interpretable fusion IP packet fixed transmission structure based on Self-attention mechanism is designed and proposed as a keyword node selection algorithm to achieve high optimization of model inputs; 
+  2. Accurately classify VPN and Tor traffic with 91% accuracy and 300KB model size.
+  3. This work conference version has been accepted by ***IEEE 2023 ICC***, and the journal version has been submitted to ***IEEE Internet of Things Journal***.
   
 ## Tor-UP
 ![Language](https://img.shields.io/badge/language-python-brightgreen)
