@@ -23,7 +23,7 @@ gallery:
     alt: " university of maryland"
     title: " University of Maryland"
   - url: offers/uci.png
-    image_path: offers/uci .png
+    image_path: offers/uci.png
     alt: "university of california, irvine"
     title: "University of California, Irvine"
 ---
