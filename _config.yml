@@ -233,10 +233,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
- # _ researchandproject
+ # _randp
   - scope:
       path: ""
-      type: researchandproject
+      type: randp
     values:
       layout: single
       author_profile: true
