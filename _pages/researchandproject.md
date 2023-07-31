@@ -1,5 +1,5 @@
 ---
-permalink: /researchproject/
+permalink: /researchandproject/
 title: "Research and Project"
 ---
 
