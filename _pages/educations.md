@@ -32,7 +32,7 @@ gallery:
   - *TOEFL iBT*: 96 (2021 Expired)
   - *GRE*: 317 (Valid)
     
-- ***Sep. 2021 - June. 2024(expected)***, Master, Cyberspace Security, School of Cyber science and engineering, Southeast University (SEU). Supervisor: Associate Prof. Yuwei Xu. *Jiangsu Province Engineering Research Center of Security for Ubiquitous Network.*
+- ***Sep. 2021 - June. 2024(expected)***, Master, Cyberspace Security, School of Cyber Science and Engineering, Southeast University (SEU). Supervisor: Associate Prof. Yuwei Xu. *Jiangsu Province Engineering Research Center of Security for Ubiquitous Network.*
   - *GPA*: 89.2
   - *Rank*: 29/396
   - *Core courses*: Algorithm Design and Analysis (86); Network information security and information hiding (96); Mobile communications and wireless network security (89)
