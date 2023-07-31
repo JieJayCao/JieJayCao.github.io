@@ -13,14 +13,14 @@ My academic research falls into two main areas: network traffic measurement (inc
   2. Accurately classify VPN and Tor traffic, with 95% recognition accuracy and 1000 PPS throughput.
   3. This work has been submitted to ***Computer Networks***.
 
- ## GateKeeper
+## GateKeeper
 - An end-to-end UltraLite approach for edge gateway devices.
   1. An interpretable fusion IP packet fixed transmission structure based on Self-attention mechanism is designed and proposed as a keyword node selection algorithm to achieve high optimization of model inputs; (2) An ultra-lightweight classification model structure is proposed based on parameter-free FFT module; (3) An ultra-lightweight classification model structure is proposed based on parameter-free FFT module.
   2. An ultra-lightweight classification model structure is proposed based on the parameter-free FFT module.
   3. Accurately classify VPN and Tor traffic with 91% accuracy and 300KB model size.
   4. This work conference version has been accepted by ***IEEE 2023 ICC***, and the journal version has been submitted to ***IEEE Internet of Things Journal***.
   
- ## Tor-UP
+## Tor-UP
 - An Unsupervised Pre-training  method for Obfuscated Tor Traffic.
   1. We deploy several Tor bridges with multiple pluggable transports and collected raw traffic. A dataset covering two mainstream obfuscation technologies and 24 applications is open-sourced.
   2. A novel traffic-oriented unsupervised pre-training task, Masked Byte Model is proposed. We design a pre-training model with three embeddings and the Transformer Encoder to extract generic traffic features.
