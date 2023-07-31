@@ -1,6 +1,6 @@
 ---
 permalink: /educations/
-title: "Educations"
+title: "Education Background"
 ---
 
 - ***Sep. 2021 - June 2024(expected)***, Master, Cyberspace Security, School of Cyber science and engineering, Southeast University (SEU). Supervisor: Associate Prof. Yuwei Xu. *Jiangsu Province Engineering Research Center of Security for Ubiquitous Network.*
