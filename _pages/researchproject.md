@@ -1,6 +1,6 @@
 ---
 permalink: /researchproject/
-title: "Research Project"
+title: "Research and Project"
 ---
 
 My academic research falls into two main areas: network traffic measurement (including: encrypted traffic and malicious traffic) and blockchain-related studies. One strand of research in this first area explores how to design efficient and reliable traffic identification methods or frameworks for ISPs to ensure QoS while securing the network environment. My interest in designing deep learning models also informs projects.
