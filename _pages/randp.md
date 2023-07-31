@@ -1,5 +1,5 @@
 ---
-permalink: /researchandproject/
+permalink: /randp/
 title: "Research and Project"
 ---
 
