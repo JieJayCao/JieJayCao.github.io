@@ -1,0 +1,11 @@
+---
+title: "FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification"
+collection: publications
+permalink: /publication/23-FastTraffic
+date: 2023-08-02
+venue: 'Computer Networks'
+paperurl: '/files/pdf/research/BERT-Spam.pdf'
+link: 'https://doi.org/10.1109/GLOBECOM42002.2020.9347970'
+github: 'https://github.com/JieJayCao/FastTraffic'
+citation: 'Yuwei Xu, Jie Cao, Kehui Song, Qiao Xiang, and Guang Cheng. 2023. &quot;FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification.&quot; <i>Computer Networks</i>'
+---
