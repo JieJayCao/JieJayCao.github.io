@@ -23,7 +23,7 @@ title: "Honors and Awards"
 - ***2019-04***: Best Ten Undergraduates Honor of School of Cybersecurity 
 - ***2018-12***: Merit Student of XUPT 
 - ***2018-12***: Second Class Scholarship of XUPT 
-- ***2017-12***: Third Class  Academic Scholarship of XUPT 
+- ***2017-12***: Third Class Scholarship of XUPT 
 
 ## Academic competitions
 - ***2019-02***: National 3rd place of Alibaba Undergraduates Network Security Competition - Data Security Track
