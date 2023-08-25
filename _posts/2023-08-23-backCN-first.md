@@ -1,5 +1,5 @@
 ---
-title: Presenting results from an arbitrary number of models
+title: 沈老师回国的第一天
 output:
   md_document:
     variant: gfm+footnotes
@@ -7,7 +7,7 @@ output:
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
 date: 2023-03-04
-permalink: /posts/2023/03/nest-map
+permalink: /posts/2023/08/backCN-first
 excerpt_separator: <!--more-->
 always_allow_html: true
 toc: true
