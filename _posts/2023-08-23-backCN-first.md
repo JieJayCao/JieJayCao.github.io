@@ -6,7 +6,7 @@ output:
     preserve_yaml: TRUE
 knit: (function(inputFile, encoding) {
   rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
-date: 2023-03-04
+date: 2023-08-23
 permalink: /posts/2023/08/backCN-first
 excerpt_separator: <!--more-->
 always_allow_html: true
