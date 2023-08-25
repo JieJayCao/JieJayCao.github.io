@@ -16,8 +16,8 @@ main:
   # - title: "Software"
   #   url: /software/
 
-  # - title: "Posts"
-  #   url: /posts/
+  - title: "Love Diary"
+     url: /posts/
     
   # - title: "CV"
   #   url: /cv/
