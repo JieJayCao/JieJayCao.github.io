@@ -17,7 +17,7 @@ main:
   #   url: /software/
 
   - title: "Posts"
-     url: /posts/
+    url: /posts/
     
   # - title: "CV"
   #   url: /cv/
