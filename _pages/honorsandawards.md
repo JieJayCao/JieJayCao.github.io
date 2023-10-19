@@ -5,6 +5,8 @@ title: "Honors and Awards"
 
 
 ## Graduate studies at SEU
+- ***2023-10***: National Scholarship, Ministry of Education of China
+- ***2023-10***: Tri-merit Student Pioneer Honor Award
 - ***2023-05***: International Academic Conference Grants of SEU
 - ***2022-10***: Second Class Academic Scholarship of SEU
 - ***2022-10***: The 8th place in the 100m men at the 64th Southeast University Games
