@@ -4,8 +4,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Research and Project"
-    url: /randp/
+  #- title: "Research and Project"
+  #  url: /randp/
 
   - title: "Educations"
     url: /educations/
