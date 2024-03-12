@@ -1,4 +1,4 @@
-![image](https://github.com/JieJayCao/JieJayCao.github.io/assets/45455827/b69f5250-b714-4ad8-a075-5e085955be36)![image](https://github.com/JieJayCao/JieJayCao.github.io/assets/45455827/531a6669-7fd0-4ea7-bd23-13cc8c5004c2)![image](https://github.com/JieJayCao/JieJayCao.github.io/assets/45455827/492b3bb0-46b4-4da2-a624-f6ecaa66756c)---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
