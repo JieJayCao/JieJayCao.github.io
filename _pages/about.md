@@ -20,22 +20,16 @@ _________________
 - ***March.5 2024***: Our work, Tor-UP: A Lightweight Approach for Effective Identification of Obfuscated Tor Traffic through Unsupervised Pre-training, is submitting to <span style="border-bottom: 2px dashed red;">ICICS 2024</span>, CCF-C Conference in cybersecurity.
 - ***Jan.15 2024***: Jie Cao obtain the ECE-PhD admission offer from Queen's University with full-funding scholarship.
 
-<iframe
-    src="http://118.25.75.221/map2.html" 
-    width="300" 
-    height="300" 
-    frameborder="0" 
-    scrolling="no"></iframe>
-    
-***<font color=red>[2023]</font>***
+
+✅***<font color=red>[2023]</font>***
 
 _________________
 
-- ***Oct.27 2023***: Our paper, DarkTrans: A Blockchain-Based Covert Communication Scheme With High Channel Capacity and Strong Concealment, has been accepted as research paper by *The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023) (CCF-C)*
+- ***Oct.27 2023***: Our paper, DarkTrans: A Blockchain-Based Covert Communication Scheme With High Channel Capacity and Strong Concealment, has been accepted as research paper by <span style="border-bottom: 2px dashed red;">ICPADS 2023 (CCF-C).</span>
 - ***Oct.16 2023***: Jie Cao was honored **National Scholarship for Master's Degree Students from Ministry of Education of China (0.2%)**.
 - ***Oct.6 2023***: Jie Cao was honored **Tri-merit Student Pioneer Honor Award (1%).**
-- ***Sep.7 2023***: Our paper, "Cerberus: Efficient OSPS Traffic Identification through Multi-Task Learning" has been accepted by *The 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2023 (CCF-C)*
-- ***Sep.7 2023***: Our paper, "ChainPass: A Privacy-preserving Complete Cross-chain Authentication for Consortium Blockchains" has been accepted by *The 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2023 (CCF-C)*
-- ***Aug.2 2023***: Our paper, "FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification" has been accepted by *Computer Networks (CCF-B, Q1)*.
+- ***Sep.7 2023***: Our paper, "Cerberus: Efficient OSPS Traffic Identification through Multi-Task Learning" has been accepted by <span style="border-bottom: 2px dashed red;">TrustCom 2023 (CCF-C).</span>
+- ***Sep.7 2023***: Our paper, "ChainPass: A Privacy-preserving Complete Cross-chain Authentication for Consortium Blockchains" has been accepted by <span style="border-bottom: 2px dashed red;">TrustCom 2023 (CCF-C).</span>
+- ***Aug.2 2023***: Our paper, "FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification" has been accepted by <span style="border-bottom: 2px dashed red;">Computer Networks (CCF-B, Q1).</span>
 - ***May 27 - June 2 2023***: Attending IEEE ICC'23:Communication QoS, Reliability and Modeling Symposium in Rome Italy.
-- ***Feb. 2023***: Our paper, “$L$-ETC: A Lightweight Model Based on Key Bytes Selection for Encrypted Traffic Classification” has been accepted by *IEEE ICC 2023 (CCF-C)*.
+- ***Feb. 2023***: Our paper, “$L$-ETC: A Lightweight Model Based on Key Bytes Selection for Encrypted Traffic Classification” has been accepted by <span style="border-bottom: 2px dashed red;">IEEE ICC 2023 (CCF-C).</span>
