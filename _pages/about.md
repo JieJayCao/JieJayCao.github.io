@@ -1,4 +1,4 @@
----
+![image](https://github.com/JieJayCao/JieJayCao.github.io/assets/45455827/b69f5250-b714-4ad8-a075-5e085955be36)![image](https://github.com/JieJayCao/JieJayCao.github.io/assets/45455827/531a6669-7fd0-4ea7-bd23-13cc8c5004c2)![image](https://github.com/JieJayCao/JieJayCao.github.io/assets/45455827/492b3bb0-46b4-4da2-a624-f6ecaa66756c)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -15,7 +15,7 @@ Welcome. Jie Cao is pursuing an M.Sc. degree in the [School of Cyber Science and
 - ***Feb.2 2024***: Our paper, GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateway, received Major Revision from *Computer Networks*, CCF-B Journal.
 - ***March.5 2024***: Our work, Tor-UP: A Lightweight Approach for Effective Identification of Obfuscated Tor Traffic through Unsupervised Pre-training, is submitting to *ICICS 2024*, CCF-C Conference in cybersecurity.
 - ***Jan.15 2024***: Jie Cao obtain the ECE-PhD admission offer from Queen's University with full-funding scholarship.
-## <font color=red>2023-2024</font>
+<font color=red>2023-2024</font>
 _________________
 
 - ***Oct.27 2023***: Our paper, DarkTrans: A Blockchain-Based Covert Communication Scheme With High Channel Capacity and Strong Concealment, has been accepted as research paper by *The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023) (CCF-C)*
