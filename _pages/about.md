@@ -30,6 +30,6 @@ _________________
 - ***Oct.6 2023***: Jie Cao was honored **Tri-merit Student Pioneer Honor Award (1%).**
 - ***Sep.7 2023***: Our paper, *"Cerberus: Efficient OSPS Traffic Identification through Multi-Task Learning"* has been accepted by <span style="border-bottom: 2px dashed red;">TrustCom 2023 (CCF-C).</span>
 - ***Sep.7 2023***: Our paper, *"ChainPass: A Privacy-preserving Complete Cross-chain Authentication for Consortium Blockchains"* has been accepted by <span style="border-bottom: 2px dashed red;">TrustCom 2023 (CCF-C).</span>
-- ***Aug.2 2023***: Our paper, *"FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification"8 has been accepted by <span style="border-bottom: 2px dashed red;">Computer Networks (CCF-B, JCR-1).</span>
+- ***Aug.2 2023***: Our paper, *"FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification"* has been accepted by <span style="border-bottom: 2px dashed red;">Computer Networks (CCF-B, JCR-1).</span>
 - ***May 27 - June 2 2023***: Attending IEEE ICC'23:Communication QoS, Reliability and Modeling Symposium in Rome Italy.
 - ***Feb. 2023***: Our paper, *"$L$-ETC: A Lightweight Model Based on Key Bytes Selection for Encrypted Traffic Classification"* has been accepted by <span style="border-bottom: 2px dashed red;">IEEE ICC 2023 (CCF-C).</span>
