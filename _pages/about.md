@@ -11,9 +11,9 @@ redirect_from:
 Welcome. Jie Cao is pursuing an M.Sc. degree in the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/) at Southeast University, Nanjing, China, under the supervision of Prof. Yuwei Xu. His current research interests include encrypted traffic identification, lightweight end-to-end method design, and network measurement. Jie will pursue his Ph.D. degree in Electrical and Computer Engineering at Queen's University, ON, Canada, under the supervision of Prof. Jianbing Ni.
 
 # News
-- ***March.6 2024***: Our work, Flipping Subtle Vulnerable Input Bytes for Defending DNN-Based Traffic Monitoring, is submitting to IEEE ISCC 2024, CCF-C Conference in computer networking.
-- ***March.5 2024***: Our paper, GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateway, received Major Revision from Computer Networks, CCF-B Journal.
-- ***March.5 2024***: Our work, Tor-UP: A Lightweight Approach for Effective Identification of Obfuscated Tor Traffic through Unsupervised Pre-training, is submitting to ICICS 2024, CCF-C Conference in cybersecurity.
+- ***March.6 2024***: Our work, Flipping Subtle Vulnerable Input Bytes for Defending DNN-Based Traffic Monitoring, is submitting to *IEEE ISCC 2024*, CCF-C Conference in computer networking.*
+- ***Feb.2 2024***: Our paper, GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateway, received Major Revision from *Computer Networks*, CCF-B Journal.
+- ***March.5 2024***: Our work, Tor-UP: A Lightweight Approach for Effective Identification of Obfuscated Tor Traffic through Unsupervised Pre-training, is submitting to *ICICS 2024*, CCF-C Conference in cybersecurity.
 - ***Jan.15 2024***: Jie Cao obtain the ECE-PhD admission offer from Queen's University with full-funding scholarship.
 ## <font color=red>2023-2024</font>
 _________________
