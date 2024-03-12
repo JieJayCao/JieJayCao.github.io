@@ -11,7 +11,7 @@ redirect_from:
 Welcome. Jie Cao will obtain the M.Sc. degree of Cyberspace Security in the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/) at Southeast University, Nanjing, China, under the supervision of Prof. Yuwei Xu. His current research interests include encrypted traffic identification, lightweight end-to-end method design, and network measurement. **Jie will pursue his Ph.D. degree in Electrical and Computer Engineering at Queen's University, ON, Canada, under the supervision of Prof. Jianbing Ni.**
 
 # News
-***<font color=red>[2024]</font>***
+**<font color=red>[2024]</font>**
 
 _________________
 
@@ -21,7 +21,7 @@ _________________
 - ***Jan.15 2024***: Jie Cao obtain the ECE-PhD admission offer from Queen's University with full-funding scholarship.
 
 
-✅***<font color=red>[2023]</font>***
+✅**<font color=red>[2023]</font>**
 
 _________________
 
