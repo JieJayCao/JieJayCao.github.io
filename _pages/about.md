@@ -15,7 +15,9 @@ Welcome. Jie Cao is pursuing an M.Sc. degree in the [School of Cyber Science and
 - ***March.5 2024***: Our paper, GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateway, received Major Revision from Computer Networks, CCF-B Journal.
 - ***March.5 2024***: Our work, Tor-UP: A Lightweight Approach for Effective Identification of Obfuscated Tor Traffic through Unsupervised Pre-training, is submitting to ICICS 2024, CCF-C Conference in cybersecurity.
 - ***Jan.15 2024***: Jie Cao obtain the ECE-PhD admission offer from Queen's University with full-funding scholarship.
-- **<font color=red>2023-2024</font>**
+## <font color=red>2023-2024</font>
+_________________
+
 - ***Oct.27 2023***: Our paper, DarkTrans: A Blockchain-Based Covert Communication Scheme With High Channel Capacity and Strong Concealment, has been accepted as research paper by *The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023) (CCF-C)*
 - ***Oct.16 2023***: Jie Cao was honored **National Scholarship for Master's Degree Students from Ministry of Education of China (0.2%)**.
 - ***Oct.6 2023***: Jie Cao was honored **Tri-merit Student Pioneer Honor Award (1%).**
