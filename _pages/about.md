@@ -15,10 +15,10 @@ Welcome. Jie Cao will obtain the M.Sc. degree of Cyberspace Security in the [Sch
 
 _________________
 
+-- ***April 2024***: Our paper, *"TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic through Unsupervised Pre-training"*, is Accepted by <span style="border-bottom: 2px dashed red;">ICICS 2024</span>.
 - ***April.1 2024***: Our work, *"BlockAdv: Protect User Privacy Against Traffic Identification Methods by Adversarial Samples"*, is submitting to <span style="border-bottom: 2px dashed red;">IEEE GlobeCom 2024</span>, Communication Flagship and CCF-C Conference.
 - ***March.6 2024***: Our work, *"Flipping Subtle Vulnerable Input Bytes for Defending DNN-Based Traffic Monitoring"*, is submitting to <span style="border-bottom: 2px dashed red;">IEEE ISCC 2024</span>, CCF-C Conference in computer networking.
 - ***March.2 2024***: Our paper, *"GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateway"*, received Major Revision from <span style="border-bottom: 2px dashed red;">Computer Networks</span>, CCF-B and JCR-1 Journal.
-- ***March.5 2024***: Our work, *"Tor-UP: A Lightweight Approach for Effective Identification of Obfuscated Tor Traffic through Unsupervised Pre-training"*, is submitting to <span style="border-bottom: 2px dashed red;">ICICS 2024</span>, CCF-C Conference in cybersecurity.
 - ***Jan.15 2024***: Jie Cao obtain the ECE-PhD admission offer from Queen's University with full-funding scholarship.
 
 
