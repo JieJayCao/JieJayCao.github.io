@@ -14,12 +14,12 @@ Welcome. **Jie Cao is pursuing his Ph.D. degree in Electrical and Computer Engin
 **<font color=red>[2024]</font>**
 
 _________________
+- ***May. 29 2024***: Our paper, *"GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateways"*, was accepted by Elsevier <span style="border-bottom: 2px dashed red;">Computer Networks</span>, CCF-B and JCR-1 Journal.
 - ***May. 24 2024***: Jie Cao defended his master's thesis.
 - ***May. 10 2024***: Our work, *"OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services"*, is submitting to <span style="border-bottom: 2px dashed green;">SecureComm 2024</span>.
 - ***May.8 2024***: Our work, *"Flipping Subtle Vulnerable Input Bytes for Defending DNN-Based Traffic Monitoring"*, is submitting to <span style="border-bottom: 2px dashed green;">ICICS 2024</span>.
 - ***April 2024***: Our paper, *"TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic through Unsupervised Pre-training"*, is Accepted by <span style="border-bottom: 2px dashed red;">ICICS 2024</span>.
 - ***April.1 2024***: Our work, *"BlockAdv: Protect User Privacy Against Traffic Identification Methods by Adversarial Samples"*, is submitting to <span style="border-bottom: 2px dashed green;">IEEE GlobeCom 2024</span>, Communication Flagship and CCF-C Conference.
-- ***March.2 2024***: Our paper, *"GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateway"*, received Major Revision from <span style="border-bottom: 2px dashed green;">Computer Networks</span>, CCF-B and JCR-1 Journal.
 - ***Jan.15 2024***: Jie Cao obtain the ECE-PhD admission offer from Queen's University with full-funding scholarship.
 
 
