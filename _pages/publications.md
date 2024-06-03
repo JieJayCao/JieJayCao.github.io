@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## 2024
+* **Jie Cao**, Yuwei Xu$^*$, Enze Yu, Qiao Xiang, Kehui Song, Liang He, and Guang Cheng. ["GateKeeper: An UltraLite malicious traffic identification method with dual-aspect optimization strategies on IoT gateways."](https://www.sciencedirect.com/science/article/abs/pii/S1389128624003888) <span style="color:red;">Computer Networks</span>.
+
+
 ## 2023
 * Yuwei Xu$^*$, **Jie Cao**, Kehui Song, Qiao Xiang, and Guang Cheng. ["FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification."](https://www.sciencedirect.com/science/article/pii/S1389128623004103) <span style="color:red;">Computer Networks</span>, Volume 235, 2023, 109965.
 * **Jie Cao**, Yuwei Xu$^*$, Qiao Xiang. ["L-ETC: A Lightweight Model Based on Key Bytes Selection for Encrypted Traffic Classification."](https://ieeexplore.ieee.org/abstract/document/10279015) <span style="color:red;">2023 IEEE International Conference on Communications (ICC)</span>.
