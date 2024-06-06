@@ -14,6 +14,7 @@ Welcome. **Jie Cao is pursuing his Ph.D. degree in Electrical and Computer Engin
 **<font color=red>[2024]</font>**
 
 _________________
+- ***May. 29 2024***: Our work, *"ChainSafari: A General and Efficient Blockchain Verifiable Query Scheme with Real-Time Synchronization"*, is submitting to <span style="border-bottom: 2px dashed green;">ICA3PP 2024</span>.
 - ***May. 29 2024***: Our paper, *"GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateways"*, was accepted by Elsevier <span style="border-bottom: 2px dashed red;">Computer Networks</span>, CCF-B and JCR-1 Journal.
 - ***May. 24 2024***: Jie Cao defended his master's thesis.
 - ***May. 10 2024***: Our work, *"OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services"*, is submitting to <span style="border-bottom: 2px dashed green;">SecureComm 2024</span>.
