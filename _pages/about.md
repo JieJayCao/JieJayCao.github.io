@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome. **Jie Cao is pursuing his Ph.D. degree in Electrical and Computer Engineering at Queen's University, ON, Canada, under the supervision of Prof. Jianbing Ni.** He obtained the Academic Master Degree of Engineering majoring Cyberspace Security in the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/) at Southeast University, Nanjing, China. His current research interests include AI security, lightweight model, and network measurement.
+Welcome. **Jie Cao is the first-year Ph.D. student in Electrical and Computer Engineering at Queen's University, ON, Canada, under the supervision of Prof. Jianbing Ni.** He obtained the Academic Master Degree of Engineering majoring Cyberspace Security in the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/) at Southeast University, Nanjing, China. His current research interests include AI security, lightweight model, and network measurement.
 
 # News
 **<font color=red>[2024]</font>**
