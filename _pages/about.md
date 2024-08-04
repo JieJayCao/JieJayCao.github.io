@@ -8,32 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Welcome. **Jie Cao is the first-year Ph.D. student in Electrical and Computer Engineering at Queen's University, ON, Canada, under the supervision of Prof. Jianbing Ni.** He obtained the Academic Master Degree of Engineering majoring Cyberspace Security in the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/) at Southeast University, Nanjing, China. His current research interests include AI security, lightweight model, and network measurement.
+Welcome. **Jie Cao is the first-year Ph.D. student in Electrical and Computer Engineering at Queen's University, ON, Canada, under the supervision of Prof. Jianbing Ni.** He obtained the M.Eng. degree majoring Cyberspace Security in the [School of Cyber Science and Engineering](https://cyber.seu.edu.cn/) at Southeast University, Nanjing, China. His current research interests include AI security, lightweight model, and network measurement.
 
 # News
 **<font color=red>[2024]</font>**
 
 _________________
-- ***July. 6 2024***: Our paper, *" R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Trafficoriented Crowdsourcing"*, received Minor Revision by <span style="border-bottom: 2px dashed green;">IEEE Transactions on Vehicular Technology</span>.
-- ***May. 29 2024***: Our work, *"DataJudge: Cross-chain Data Consistency Verification Based on Extended Merkle Hash Tree"*, is submitting to <span style="border-bottom: 2px dashed green;">ICA3PP 2024</span>.
-- ***May. 29 2024***: Our work, *"ChainSafari: A General and Efficient Blockchain Verifiable Query Scheme with Real-Time Synchronization"*, is submitting to <span style="border-bottom: 2px dashed green;">ICA3PP 2024</span>.
-- ***May. 29 2024***: Our paper, *"GateKeeper: An UltraLite Malicious Traffic Identification Method with Dual-Aspect Optimization Strategies on IoT Gateways"*, was accepted by Elsevier <span style="border-bottom: 2px dashed red;">Computer Networks</span>, CCF-B and JCR-1 Journal.
-- ***May. 24 2024***: Jie Cao defended his master's thesis.
-- ***May. 10 2024***: Our work, *"OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services"*, is submitting to <span style="border-bottom: 2px dashed green;">SecureComm 2024</span>.
-- ***April 2024***: Our paper, *"TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic through Unsupervised Pre-training"*, is Accepted by <span style="border-bottom: 2px dashed red;">ICICS 2024</span>.
-- ***April.1 2024***: Our work, *"BlockAdv: Protect User Privacy Against Traffic Identification Methods by Adversarial Samples"*, is submitting to <span style="border-bottom: 2px dashed green;">IEEE GlobeCom 2024</span>, Communication Flagship and CCF-C Conference.
-- ***Jan.15 2024***: Jie Cao obtain the ECE-PhD admission offer from Queen's University with full-funding scholarship.
+- ***Aug. 1***: Our paper, *"OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services"*, was accepted by <span style="border-bottom: 2px dashed green;">SecureComm 2024</span>.
+- ***July. 6***: Our paper, *" R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Trafficoriented Crowdsourcing"*, received Minor Revision by <span style="border-bottom: 2px dashed green;">IEEE Transactions on Vehicular Technology</span>.
+- ***May. 24***: Jie Cao defended his master's thesis.
+
 
 
 ✅**<font color=red>[2023]</font>**
 
 _________________
 
-- ***Oct.27 2023***: Our paper, *"DarkTrans: A Blockchain-Based Covert Communication Scheme With High Channel Capacity and Strong Concealment"*, has been accepted as research paper by <span style="border-bottom: 2px dashed red;">ICPADS 2023 (CCF-C).</span>
-- ***Oct.16 2023***: Jie Cao was honored **National Scholarship for Master's Degree Students from Ministry of Education of China (0.2%)**.
-- ***Oct.6 2023***: Jie Cao was honored **Tri-merit Student Pioneer Honor Award (1%).**
-- ***Sep.7 2023***: Our paper, *"Cerberus: Efficient OSPS Traffic Identification through Multi-Task Learning"* has been accepted by <span style="border-bottom: 2px dashed red;">TrustCom 2023 (CCF-C).</span>
-- ***Sep.7 2023***: Our paper, *"ChainPass: A Privacy-preserving Complete Cross-chain Authentication for Consortium Blockchains"* has been accepted by <span style="border-bottom: 2px dashed red;">TrustCom 2023 (CCF-C).</span>
-- ***Aug.2 2023***: Our paper, *"FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification"* has been accepted by <span style="border-bottom: 2px dashed red;">Computer Networks (CCF-B, JCR-1).</span>
-- ***May 27 - June 2 2023***: Attending IEEE ICC'23:Communication QoS, Reliability and Modeling Symposium in Rome Italy.
-- ***Feb. 2023***: Our paper, *"$L$-ETC: A Lightweight Model Based on Key Bytes Selection for Encrypted Traffic Classification"* has been accepted by <span style="border-bottom: 2px dashed red;">IEEE ICC 2023 (CCF-C).</span>
+- ***Oct.27***: Our paper, *"DarkTrans: A Blockchain-Based Covert Communication Scheme With High Channel Capacity and Strong Concealment"*, has been accepted as research paper by <span style="border-bottom: 2px dashed red;">ICPADS 2023 (CCF-C).</span>
+- ***Oct.16***: Jie Cao was honored **National Scholarship for Master's Degree Students from Ministry of Education of China (0.2%)**.
+- ***Oct.6***: Jie Cao was honored **Tri-merit Student Pioneer Honor Award (1%).**
+- ***Sep.7***: Our paper, *"Cerberus: Efficient OSPS Traffic Identification through Multi-Task Learning"* has been accepted by <span style="border-bottom: 2px dashed red;">TrustCom 2023 (CCF-C).</span>
+- ***Sep.7***: Our paper, *"ChainPass: A Privacy-preserving Complete Cross-chain Authentication for Consortium Blockchains"* has been accepted by <span style="border-bottom: 2px dashed red;">TrustCom 2023 (CCF-C).</span>
+- ***Aug.2***: Our paper, *"FastTraffic: A Lightweight Method for Encrypted Traffic Fast Classification"* has been accepted by <span style="border-bottom: 2px dashed red;">Computer Networks (CCF-B, JCR-1).</span>
+- ***May 27 - June 2***: Attending IEEE ICC'23:Communication QoS, Reliability and Modeling Symposium in Rome Italy.
+- ***Feb. 1***: Our paper, *"$L$-ETC: A Lightweight Model Based on Key Bytes Selection for Encrypted Traffic Classification"* has been accepted by <span style="border-bottom: 2px dashed red;">IEEE ICC 2023 (CCF-C).</span>
