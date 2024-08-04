@@ -9,7 +9,7 @@ author_profile: true
 ## 2024
 * Zhengxin Xu, **Jie Cao**, Yujie Hou, Yuwei Xu$^*$, Guang Cheng. "OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services". <span style="color:red;">EAI SecureComm 2024</span>.
 * Yuwei Xu$^*$, Zhengxin Xu, **Jie Cao**, Rongrong Wang, Yali Yuan and Guang Cheng. "TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic through Unsupervised Pre-training. <span style="color:red;">The 2024 International Conference on Information and Communications Security (ICICS 2024)</span>.
-* **Jie Cao**, Yuwei Xu$^*$, Enze Yu, Qiao Xiang, Kehui Song, Liang He, and Guang Cheng. ["GateKeeper: An UltraLite malicious traffic identification method with dual-aspect optimization strategies on IoT gateways."](https://www.sciencedirect.com/science/article/abs/pii/S1389128624003888) <span style="color:red;">Computer Networks</span>.
+* **Jie Cao**, Yuwei Xu$^*$, Enze Yu, Qiao Xiang, Kehui Song, Liang He, and Guang Cheng. ["GateKeeper: An UltraLite malicious traffic identification method with dual-aspect optimization strategies on IoT gateways."](https://www.sciencedirect.com/science/article/abs/pii/S1389128624003888) <span style="color:red;">Computer Networks</span>, Volume 250, 2024, 110556.
 
 
 ## 2023
