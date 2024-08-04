@@ -5,6 +5,7 @@ title: "Honors and Awards"
 
 
 ## Graduate studies at SEU
+- ***2024-06***: Outstanding Master's Degree Graduates of SEU
 - ***2023-10***: National Scholarship, Ministry of Education of China
 - ***2023-10***: Tri-merit Student Pioneer Honor Award
 - ***2023-05***: International Academic Conference Grants of SEU
