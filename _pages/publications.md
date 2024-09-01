@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## 2024
+* Yuwei	Xu$^*$, Yunpeng	Bai, **Jie Cao**, Yuanyuan	Xua, Liang	He, Guang	Cheng. Tarnhelm: Using Adversarial Samples to Protect User Privacy Against Traffic Identification. <span style="color:red;">EAI SecureComm 2024</span>, accept.
 * Yuwei Xu$^*$, Shengjiang Dai, Junyu Zeng, **Jie Cao**, Ran He, Guang Cheng. DataJudge: Cross-chain Data Consistency Verification Based on Extended Merkle Hash Tree. <span style="color:red;">ICA3PP 2024</span>, accept.
 * Yuwei Xu$^*$, Junyu Zeng, **Jie Cao**, Shengjiang Dai, Qiao Xiang, Guang Cheng. "ChainSafari: A General and Efficient Blockchain Verifiable Query Scheme with Real-Time Synchronization". <span style="color:red;">ICA3PP 2024</span>, accept.
 * Zhengxin Xu, **Jie Cao**, Yujie Hou, Yuwei Xu$^*$, Guang Cheng. "OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services". <span style="color:red;">EAI SecureComm 2024</span>, accept.
