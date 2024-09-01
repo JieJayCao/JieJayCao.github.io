@@ -7,13 +7,13 @@ author_profile: true
 
 
 ## 2024
-* Yuwei	Xu$^*$, Yunpeng	Bai, **Jie Cao**, Yuanyuan	Xua, Liang	He, Guang	Cheng. Tarnhelm: Using Adversarial Samples to Protect User Privacy Against Traffic Identification. <span style="color:red;">EAI SecureComm 2024</span>, accept.
-* Enze Yu, Yuwei Xu, Lin Gao, **Jie Cao**, etc. R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Traffic-oriented Crowdsourcing. <span style="color:red;">IEEE Transactions on Vehicular Technology</span>, accept.
-* Yuwei Xu$^*$, Shengjiang Dai, Junyu Zeng, **Jie Cao**, Ran He, Guang Cheng. DataJudge: Cross-chain Data Consistency Verification Based on Extended Merkle Hash Tree. <span style="color:red;">ICA3PP 2024</span>, accept.
-* Yuwei Xu$^*$, Junyu Zeng, **Jie Cao**, Shengjiang Dai, Qiao Xiang, Guang Cheng. "ChainSafari: A General and Efficient Blockchain Verifiable Query Scheme with Real-Time Synchronization". <span style="color:red;">ICA3PP 2024</span>, accept.
-* Zhengxin Xu, **Jie Cao**, Yujie Hou, Yuwei Xu$^*$, Guang Cheng. "OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services". <span style="color:red;">EAI SecureComm 2024</span>, accept.
-* Yuwei Xu$^*$, Zhengxin Xu, **Jie Cao**, Rongrong Wang, Yali Yuan and Guang Cheng. "TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic through Unsupervised Pre-training. <span style="color:red;">ICICS 2024</span>, accept.
-* **Jie Cao**, Yuwei Xu$^*$, Enze Yu, Qiao Xiang, Kehui Song, Liang He, and Guang Cheng. ["GateKeeper: An UltraLite malicious traffic identification method with dual-aspect optimization strategies on IoT gateways."](https://www.sciencedirect.com/science/article/abs/pii/S1389128624003888) <span style="color:red;">Computer Networks</span>, Volume 250, 2024, 110556.
+* Yuwei	Xu$^*$, Yunpeng	Bai, **Jie Cao**, Yuanyuan	Xua, Liang	He, Guang	Cheng. *"Tarnhelm: Using Adversarial Samples to Protect User Privacy Against Traffic Identification."* <span style="color:red;">EAI SecureComm 2024</span>, accept.
+* Enze Yu, Yuwei Xu, Lin Gao, **Jie Cao**, etc. *"R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Traffic-oriented Crowdsourcing."* <span style="color:red;">IEEE Transactions on Vehicular Technology</span>, accept.
+* Yuwei Xu$^*$, Shengjiang Dai, Junyu Zeng, **Jie Cao**, Ran He, Guang Cheng. *"DataJudge: Cross-chain Data Consistency Verification Based on Extended Merkle Hash Tree."* <span style="color:red;">ICA3PP 2024</span>, accept.
+* Yuwei Xu$^*$, Junyu Zeng, **Jie Cao**, Shengjiang Dai, Qiao Xiang, Guang Cheng. *"ChainSafari: A General and Efficient Blockchain Verifiable Query Scheme with Real-Time Synchronization."* <span style="color:red;">ICA3PP 2024</span>, accept.
+* Zhengxin Xu, **Jie Cao**, Yujie Hou, Yuwei Xu$^*$, Guang Cheng. *"OnionPeeler: A Novel Input-Enriched Website Fingerprinting Attack on Tor Onion Services."* <span style="color:red;">EAI SecureComm 2024</span>, accept.
+* Yuwei Xu$^*$, Zhengxin Xu, **Jie Cao**, Rongrong Wang, Yali Yuan and Guang Cheng. *"TorHunter: A Lightweight Method for Efficient Identification of Obfuscated Tor Traffic through Unsupervised Pre-training"*. <span style="color:red;">ICICS 2024</span>, accept.
+* **Jie Cao**, Yuwei Xu$^*$, Enze Yu, Qiao Xiang, Kehui Song, Liang He, and Guang Cheng. *["GateKeeper: An UltraLite malicious traffic identification method with dual-aspect optimization strategies on IoT gateways."]*(https://www.sciencedirect.com/science/article/abs/pii/S1389128624003888) <span style="color:red;">Computer Networks</span>, Volume 250, 2024, 110556.
 
 
 ## 2023
