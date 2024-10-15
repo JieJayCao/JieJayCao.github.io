@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## 2024
+* Guanjie Li, Tom H Luan$^*$, Jinkai Zheng, Dihao Hu, Jie Cao, YaLun Wu. "A Secure and Lightweight Data Sharing Scheme in Vehicular Digital Twin Network." <span style="color:red;">Peer-to-Peer Networking and Applications</span>, accept.
 * Yuwei	Xu$^*$, Yunpeng	Bai, **Jie Cao**, Yuanyuan	Xu, Liang	He, Guang	Cheng. "Tarnhelm: Using Adversarial Samples to Protect User Privacy Against Traffic Identification." <span style="color:red;">EAI SecureComm 2024</span>, accept.
 * Enze Yu, Yuwei Xu, Lin Gao, **Jie Cao**, etc. "R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Traffic-oriented Crowdsourcing."* <span style="color:red;">IEEE Transactions on Vehicular Technology</span>, accept.
 * Yuwei Xu$^*$, Shengjiang Dai, Junyu Zeng, **Jie Cao**, Ran He, Guang Cheng. "DataJudge: Cross-chain Data Consistency Verification Based on Extended Merkle Hash Tree." <span style="color:red;">ICA3PP 2024</span>, accept.
