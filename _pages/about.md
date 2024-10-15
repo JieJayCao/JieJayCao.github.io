@@ -14,7 +14,8 @@ Welcome. **Jie Cao is the first-year Ph.D. student in Electrical and Computer En
 **<font color=red>[2024]</font>**
 
 _________________
-- ***Sep***: Our paper, *" R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Traffic oriented Crowdsourcing"*, received Minor Revision by <span style="border-bottom: 2px dashed green;">IEEE Transactions on Vehicular Technology</span>.
+- ***Oct***: My co-author work, *"A Secure and Lightweight Data Sharing Scheme in Vehicular Digital Twin Network"*,  was accepted by <span style="color:red;">Peer-to-Peer Networking and Applications</span>.
+- ***Sep***: Our paper, *" R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Traffic oriented Crowdsourcing"*, was accepted by <span style="border-bottom: 2px dashed green;">IEEE Transactions on Vehicular Technology</span>.
 - ***Aug***: We have 2 conference papers accepted by EAI SecureComm and 2 conference papers accepted by ICA3PP.
 - ***May***: Jie Cao defended his master's thesis.
 
