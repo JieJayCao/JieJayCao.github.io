@@ -17,9 +17,9 @@ _________________
 - ***Nov***: My work, *"Perturbing Vulnerable Bytes in Packets to Generate Adversarial Samples Resisting DNN-Based Traffic Monitoring"*, was accepted by <span style="border-bottom: 2px dashed green;">TrustCom 2024</span>.
 - ***Oct***: My co-author work, *"A Secure and Lightweight Data Sharing Scheme in Vehicular Digital Twin Network"*,  was accepted by <span style="border-bottom: 2px dashed green;">Peer-to-Peer Networking and Applications</span>.
 - ***Sep***: Our paper, *" R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Traffic oriented Crowdsourcing"*, was accepted by <span style="border-bottom: 2px dashed green;">IEEE Transactions on Vehicular Technology</span>.
-- **Sep. 3**: :laughing: Jie Cao started his PhD journey at Dept. of Electrical and Computer Engineering at Queen's University 🇨🇦, and his new life in Kingston,
+- **Sep. 3**: 😄 Jie Cao started his PhD journey at Dept. of Electrical and Computer Engineering at Queen's University 🇨🇦, and his new life in Kingston,
 - ***Aug***: We have 2 conference papers accepted by EAI SecureComm and 2 conference papers accepted by ICA3PP.
-- ***May***: :laughing: Jie Cao defended his master's thesis :v:.
+- ***May***: 🎉 Jie Cao defended his master's thesis.
 
 
 
