@@ -14,7 +14,7 @@ Welcome. **Jie Cao is the first-year Ph.D. student in Electrical and Computer En
 **<font color=red>[2024]</font>**
 
 _________________
-- ***Nov***: 🎉 I have been awarded the 2024 Jiangsu Cyberspace Security Association Outstanding Master’s Thesis Award, and this thesis was completed under the supervision of Prof. Yuwei Xu🫡. 
+- ***Nov***: 🎉 I have been awarded the 2024 Jiangsu Cyberspace Security Association Outstanding Master’s Thesis Award, and this thesis was completed under the supervision of Prof. Yuwei Xu. 
 - ***Nov***: My work, *"Perturbing Vulnerable Bytes in Packets to Generate Adversarial Samples Resisting DNN-Based Traffic Monitoring"*, was accepted by <span style="border-bottom: 2px dashed green;">TrustCom 2024 (CCF-C)</span> .
 - ***Oct***: My co-author work, *"A Secure and Lightweight Data Sharing Scheme in Vehicular Digital Twin Network"*,  was accepted by <span style="border-bottom: 2px dashed green;">Peer-to-Peer Networking and Applications</span>.
 - ***Sep***: Our paper, *" R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Traffic oriented Crowdsourcing"*, was accepted by <span style="border-bottom: 2px dashed green;">IEEE Transactions on Vehicular Technology</span>.
