@@ -20,7 +20,7 @@ _________________
 - ***Sep***: Our paper, *" R-manager: Consortium Blockchain-based Vehicle Reputation Management for High-quality Reports in Traffic oriented Crowdsourcing"*, was accepted by <span style="border-bottom: 2px dashed green;">IEEE Transactions on Vehicular Technology</span>.
 - **Sep. 3**: 😄 I start my PhD journey at Dept. of Electrical and Computer Engineering at Queen's University 🇨🇦, and my new life in Kingston.
 - ***Aug***: We have 2 conference papers accepted by EAI SecureComm and 2 conference papers accepted by ICA3PP.
-- ***May***: 🎉 I defended his master's thesis at Southeast Univeristy, thanks to my supervisor. Prof. Yuwei Xu.
+- ***May***: 🎉 I defend my master's thesis at Southeast Univeristy, thanks to my supervisor. Prof. Yuwei Xu.
 
 
 
