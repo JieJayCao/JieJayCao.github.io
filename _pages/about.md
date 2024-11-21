@@ -38,4 +38,3 @@ _________________
 - **Feb**: Our paper, *"$L$-ETC: A Lightweight Model Based on Key Bytes Selection for Encrypted Traffic Classification"* has been accepted by <span style="border-bottom: 2px dashed red;">IEEE ICC 2023 (CCF-C).</span>
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=b44O6LE5ZfMLdyYd3wr2eSM7l77QzByXoF8f01sY9Os"></script>
