@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<style>
-h1 { font: 26pt Times New Roman !important; }
-h2 { font: 22pt Times New Roman !important; }
-h3 { font: 16pt Times New Roman !important; }
-p { font: 14pt Times New Roman !important; }
-</style>
-
 
 ## 2024
 * **Jie Cao**, Zhengxin Xu, Yunpeng Bai, Yuwei Xu, Qiao Xiang, and Guang Cheng. *"Perturbing Vulnerable Bytes in Packets to Generate Adversarial Samples Resisting DNN-Based Traffic Monitoring."* <span style="color:red;">2024 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)</span>, accept.
