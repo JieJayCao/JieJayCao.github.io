@@ -8,6 +8,16 @@ author_profile: true
 
 ## 2024
 
+<div class="citation-box">
+  <h4 class="citation-title">Perturbing Vulnerable Bytes in Packets to Generate Adversarial Samples Resisting DNN-Based Traffic Monitoring</h4>
+  <p class="citation-authors">
+    Jie Cao✦, Yifu Lu✦, <b>Yifan Zeng</b>, Jiacheng Guo, Jiayi Geng, Huazheng Wang, Kaixuan Huang, Yue Wu, Mengdi Wang
+  </p>
+  <p class="citation-source">
+    <i>2024 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)</i> · <a href="https://arxiv.org/abs/2410.16033" target="_blank" class="citation-link">arXiv:2410.16033</a>
+  </p>
+</div>
+
 * **Jie Cao**, Zhengxin Xu, Yunpeng Bai, Yuwei Xu, Qiao Xiang, and Guang Cheng. *"Perturbing Vulnerable Bytes in Packets to Generate Adversarial Samples Resisting DNN-Based Traffic Monitoring."* <span style="color:red;">2024 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)</span>, accept.
 * Guanjie Li, Tom H Luan, Jinkai Zheng, Dihao Hu, **Jie Cao**, and Yalun Wu. *"A Secure and Lightweight Data Sharing Scheme in Vehicular Digital Twin Network."* <span style="color:red;">Peer-to-Peer Networking and Applications</span>, accept.
 * Yuwei	Xu, Yunpeng	Bai, **Jie Cao**, Yuanyuan	Xu, Liang	He, and Guang	Cheng. *"Tarnhelm: Using Adversarial Samples to Protect User Privacy Against Traffic Identification."* <span style="color:red;">EAI SecureComm 2024</span>, accept.
