@@ -28,9 +28,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family: "Roboto", Arial, sans-serif; // 修改为 Roboto 字体
+$header-font-family: $garamond; // 设置标题为 Garamond 字体
+$caption-font-family: $helvetica; // 设置说明文字为 Helvetica 字体
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
