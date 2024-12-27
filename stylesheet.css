@@ -106,24 +106,28 @@ h2 {
   font-family: "Quantico", serif;
   font-weight: 400;
   font-style: normal;
+  font-size: 22px;
 }
 
 .quantico-bold {
   font-family: "Quantico", serif;
   font-weight: 700;
   font-style: normal;
+  font-size: 22px;
 }
 
 .quantico-regular-italic {
   font-family: "Quantico", serif;
   font-weight: 400;
   font-style: italic;
+  font-size: 22px;
 }
 
 .quantico-bold-italic {
   font-family: "Quantico", serif;
   font-weight: 700;
   font-style: italic;
+  font-size: 30px;
 }
 
 .one {
