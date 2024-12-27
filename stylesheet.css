@@ -102,11 +102,28 @@ h2 {
   font-weight: 700;
 }
 
-.name {
-  padding-top: 20px;
-  margin: 0;
-  font-family: 'DotGothic16', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+.quantico-regular {
+  font-family: "Quantico", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", serif;
+  font-weight: 700;
+  font-style: italic;
 }
 
 .one {
