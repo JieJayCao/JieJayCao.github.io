@@ -69,7 +69,7 @@
 }
 
 .blinking-braces {
-  animation: blink 1s infinite;
+  animation: blink 1.8s infinite;
 }
 a {
   color: #1772d0;
