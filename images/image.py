@@ -40,7 +40,7 @@ def create_favicon(input_path, output_dir):
 
 if __name__ == '__main__':
     # 设置输入和输出路径
-    input_image = '/Users/caojie/Documents/Projects/JieJayCao.github.io/images/protection.png'
-    output_directory = '/Users/caojie/Documents/Projects/JieJayCao.github.io'
+    input_image = '/Users/caojie/Documents/Projects/JieJayCao.github.io/images/logo.png'
+    output_directory = '/Users/caojie/Documents/Projects/JieJayCao.github.io/images/new_logo'
     
     create_favicon(input_image, output_directory)
